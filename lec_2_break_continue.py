@@ -1,9 +1,11 @@
 for i in 'hello world':
-  if i == '0':
+  if i == 'o':
     break
   print(i)  
 
+print()
+
 for i in 'hello world':
-  if i  == '0':
+  if i  == 'o':
     continue
   print(i)
