@@ -1,0 +1,10 @@
+gravity_constant = 6.67408 * 10**(-11)
+c = 3 * 10**8
+g = 9.81
+pi = 3.14159
+e = 2.718281 
+avogadro_number =  6.02214076 * 10**23
+electron_charge = 1.60217662 * 10**(-19)
+faraday_constant = 9.65 * 10**(-4)
+planka_constant = 6.63 * 10**(-34)
+boltzmann_constant = 1.3 * 10**(23)
